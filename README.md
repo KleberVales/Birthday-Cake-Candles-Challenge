@@ -8,3 +8,4 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 - The second line contains n space-separated integers, representing the height of each candle.
 
 ## 📤 Output Format
+- A single integer representing the number of tallest candles that can be blown out.
