@@ -25,3 +25,4 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 2
 
 ```
+## 🔍 Explanation
