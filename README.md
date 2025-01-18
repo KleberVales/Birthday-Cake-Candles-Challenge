@@ -31,3 +31,8 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 - There are two candles with this height, so the output is 2.
 
 ## 🚀 Function Signature
+``` java
+
+int birthdayCakeCandles(List<Integer> candles)
+
+```
