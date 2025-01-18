@@ -26,3 +26,6 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 
 ```
 ## 🔍 Explanation
+- The given candle heights are 3, 2, 1, 3.
+- The maximum height is 3.
+- There are two candles with this height, so the output is 2.
