@@ -13,3 +13,9 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 ## ✅ Example
 
 ### Input:
+```java
+
+4
+3 2 1 3
+
+```
