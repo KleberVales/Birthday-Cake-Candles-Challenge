@@ -36,3 +36,5 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 int birthdayCakeCandles(List<Integer> candles)
 
 ```
+- Parameters: A list of integers representing candle heights.
+- Returns: An integer indicating the count of the tallest candles.
