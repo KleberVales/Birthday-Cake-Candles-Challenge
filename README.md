@@ -6,3 +6,5 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 ## 📥 Input Format
 - The first line contains an integer n, the number of candles.
 - The second line contains n space-separated integers, representing the height of each candle.
+
+## 📤 Output Format
