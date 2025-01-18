@@ -11,3 +11,5 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 - A single integer representing the number of tallest candles that can be blown out.
 
 ## ✅ Example
+
+### Input:
