@@ -19,3 +19,4 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 3 2 1 3
 
 ```
+### Output:
