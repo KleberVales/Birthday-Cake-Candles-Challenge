@@ -9,3 +9,5 @@ In the Birthday Cake Candles challenge, you are given a list of candles, where e
 
 ## 📤 Output Format
 - A single integer representing the number of tallest candles that can be blown out.
+
+## ✅ Example
